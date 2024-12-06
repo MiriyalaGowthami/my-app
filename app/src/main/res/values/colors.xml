@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#F0E68C</color>
+    <color name="button_color">#3D0A61</color> <!-- Deep Purple -->
+
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color> <!-- Changed from Fname -->
+    <color name="white">#FF018786</color>
+
+        <color name="teal_200">#03DAC5</color>
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_700">#6200EE</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="Black">#FF000000</color>
+        <!-- Add other color definitions here -->
+    <!-- Corrected to White -->
+</resources>
